@@ -1,7 +1,7 @@
 """
 Created on Tue Nov 14 23:51:36 2017
 
-@authors: Apurba Sengupta, Dhruv Desai
+@authors: Apurba Sengupta
 
 """
 
